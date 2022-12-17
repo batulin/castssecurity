@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd4a4c37-b06f-4481-987e-cf540ecfcc67" name="Changes" comment="lesson17full">
+    <list default="true" id="dd4a4c37-b06f-4481-987e-cf540ecfcc67" name="Changes" comment="lesson18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Security/LoginFormAuthenticator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/security.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/security.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671260293672</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson18">
+      <created>1671261079131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671261079131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,6 +252,7 @@
     <MESSAGE value="lesson15" />
     <MESSAGE value="lesson16" />
     <MESSAGE value="lesson17full" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson17full" />
+    <MESSAGE value="lesson18" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson18" />
   </component>
 </project>
