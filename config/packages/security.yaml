@@ -28,11 +28,11 @@ security:
                 check_path: app_login
                 username_parameter: email
                 password_parameter: password
+                enable_csrf: true
 
             logout: true
             remember_me:
                 secret: '%kernel.secret%'
-                #always_remember_me: true
                 signature_properties: [password]
 
 
